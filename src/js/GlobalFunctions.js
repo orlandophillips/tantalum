@@ -11,3 +11,9 @@ export class Item extends Inventory { // Subclass derived from Inventory (Inheri
 
     }
 }
+
+export class Test {
+    constructor() {
+        
+    }
+}
