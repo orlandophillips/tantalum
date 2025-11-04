@@ -1,0 +1,8 @@
+body {
+    font-family: "Merriweather";
+}
+
+.code {
+    font-family: "Roboto Mono";font-size: 35px;
+    color: rgb(70, 70, 70)
+}
