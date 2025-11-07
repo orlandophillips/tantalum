@@ -19,10 +19,10 @@ body {
 
 .hero-title {
 	text-align: center;
-  position: absolute;
-  top: 30%;
-  left: 50%;
-  transform: translate(-50%, -50%);
+    position: absolute;
+    top: 30%;
+    left: 50%;
+    transform: translate(-50%, -50%);
 	font-size: 5em;
 }
 .clever {
@@ -78,7 +78,7 @@ body {
 .hero-cta {
 	background-color: white;
 	position: relative;
-	top: 75vh;
+	top: 55vh;
 	padding: 1rem 2rem;
 	border-radius: 3rem;
 	border: 1px solid #FE35B7;
